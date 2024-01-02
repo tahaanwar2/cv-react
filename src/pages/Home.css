@@ -1,0 +1,44 @@
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    background-color: #5477a188;
+    color: black;
+  }
+  
+  .nav-link {
+    color: #131111;
+  }
+  
+  .nav-link:hover {
+    color: #090a0a;
+  }
+  
+  .navbar-nav .nav-link {
+    color: black !important;
+  }
+  
+  .nav-items {
+    color: black;
+  }
+  
+  img.social-icon {
+    width: 28px;
+    height: auto;
+    
+    margin-right: 35px;
+    
+   }
+  
+
+   .resume-section-content {
+    text-align: left;
+  }
+
+  .resume-section {
+    background-color: #ecf3f3de;
+  }
